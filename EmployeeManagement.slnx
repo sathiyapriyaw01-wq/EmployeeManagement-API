@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EmployeeManagement.BusinessLayer/EmployeeManagement.BusinessLayer.csproj" />
+  <Project Path="EmployeeManagement.DataLayer/EmployeeManagement.DataLayer.csproj" />
+  <Project Path="EmployeeManagement/EmployeeManagement.csproj" />
+</Solution>
